@@ -3,7 +3,6 @@ node_modules
 
 # temp folders
 build
-dist
 _book
 
 # temp files
@@ -11,7 +10,6 @@ _book
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-bundle*.js
 
 # intellij
 .idea
